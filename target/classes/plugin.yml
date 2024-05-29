@@ -1,0 +1,7 @@
+name: PremierRegionsTask
+version: '1.0-SNAPSHOT'
+main: me.lenyz.premierregionstask.PremierRegionsTask
+api-version: '1.20'
+commands:
+  region:
+    aliases: [rg, regions]

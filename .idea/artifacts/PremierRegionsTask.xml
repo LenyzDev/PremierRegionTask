@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PremierRegionsTask">
+    <output-path>$USER_HOME$/Downloads</output-path>
+    <root id="archive" name="PremierRegionsTask.jar">
+      <element id="module-output" name="PremierRegionsTask" />
+    </root>
+  </artifact>
+</component>
